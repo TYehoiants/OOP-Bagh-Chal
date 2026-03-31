@@ -9,12 +9,12 @@ Bagh-Chal is an asymmetric strategic board game:
 
 The game is strictly turn-based and follows the authentic rules of the traditional board game.
 
-## 🛠 Technical Stack
+##  Technical Stack
 * **Language:** C++17
 * **Library:** SFML (Simple and Fast Multimedia Library) for graphics and input handling.
 * **Paradigm:** Object-Oriented Programming (Encapsulation, Inheritance, Abstraction).
 
-## 🚀Key Features
+## Key Features
 * **Modular Architecture:** The project is organized into 7 core files.
 * **Asymmetric Logic:** Unique movement and win-condition algorithms for both tigers and goats.
 * **Debug Console:** Real-time logging of in-game actions and logic validation for easy debugging.

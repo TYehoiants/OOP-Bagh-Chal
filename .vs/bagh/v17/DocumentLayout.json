@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\0unik\\OOP\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\kurs\\bagh\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A3365BB-08B7-49A1-BE1B-DDE88AC73045}|bagh\\bagh.vcxproj|E:\\0unik\\OOP\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\kurs\\bagh\\bagh\\Game.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7A3365BB-08B7-49A1-BE1B-DDE88AC73045}|bagh\\bagh.vcxproj|solutionrelative:bagh\\Game.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A3365BB-08B7-49A1-BE1B-DDE88AC73045}|bagh\\bagh.vcxproj|E:\\0unik\\OOP\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\kurs\\bagh\\bagh\\Piece.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7A3365BB-08B7-49A1-BE1B-DDE88AC73045}|bagh\\bagh.vcxproj|solutionrelative:bagh\\Piece.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A3365BB-08B7-49A1-BE1B-DDE88AC73045}|bagh\\bagh.vcxproj|E:\\0unik\\OOP\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\kurs\\bagh\\bagh\\Piece.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7A3365BB-08B7-49A1-BE1B-DDE88AC73045}|bagh\\bagh.vcxproj|solutionrelative:bagh\\Piece.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A3365BB-08B7-49A1-BE1B-DDE88AC73045}|bagh\\bagh.vcxproj|E:\\0unik\\OOP\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\kurs\\bagh\\bagh\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7A3365BB-08B7-49A1-BE1B-DDE88AC73045}|bagh\\bagh.vcxproj|solutionrelative:bagh\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A3365BB-08B7-49A1-BE1B-DDE88AC73045}|bagh\\bagh.vcxproj|E:\\0unik\\OOP\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\kurs\\bagh\\bagh\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7A3365BB-08B7-49A1-BE1B-DDE88AC73045}|bagh\\bagh.vcxproj|solutionrelative:bagh\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A3365BB-08B7-49A1-BE1B-DDE88AC73045}|bagh\\bagh.vcxproj|E:\\0unik\\OOP\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\kurs\\bagh\\bagh\\Game_InitLoad.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7A3365BB-08B7-49A1-BE1B-DDE88AC73045}|bagh\\bagh.vcxproj|solutionrelative:bagh\\Game_InitLoad.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A3365BB-08B7-49A1-BE1B-DDE88AC73045}|bagh\\bagh.vcxproj|E:\\0unik\\OOP\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\kurs\\bagh\\bagh\\Game_logic.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7A3365BB-08B7-49A1-BE1B-DDE88AC73045}|bagh\\bagh.vcxproj|solutionrelative:bagh\\Game_logic.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Game.cpp",
+              "DocumentMoniker": "E:\\0unik\\OOP\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\kurs\\bagh\\bagh\\Game.cpp",
+              "RelativeDocumentMoniker": "bagh\\Game.cpp",
+              "ToolTip": "E:\\0unik\\OOP\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\kurs\\bagh\\bagh\\Game.cpp",
+              "RelativeToolTip": "bagh\\Game.cpp",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAEYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-15T16:42:00.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main.cpp",
+              "DocumentMoniker": "E:\\0unik\\OOP\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\kurs\\bagh\\bagh\\main.cpp",
+              "RelativeDocumentMoniker": "bagh\\main.cpp",
+              "ToolTip": "E:\\0unik\\OOP\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\kurs\\bagh\\bagh\\main.cpp",
+              "RelativeToolTip": "bagh\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-15T12:35:40.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game.hpp",
+              "DocumentMoniker": "E:\\0unik\\OOP\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\kurs\\bagh\\bagh\\Game.hpp",
+              "RelativeDocumentMoniker": "bagh\\Game.hpp",
+              "ToolTip": "E:\\0unik\\OOP\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\kurs\\bagh\\bagh\\Game.hpp",
+              "RelativeToolTip": "bagh\\Game.hpp",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAABsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-15T13:19:39.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Game_InitLoad.cpp",
+              "DocumentMoniker": "E:\\0unik\\OOP\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\kurs\\bagh\\bagh\\Game_InitLoad.cpp",
+              "RelativeDocumentMoniker": "bagh\\Game_InitLoad.cpp",
+              "ToolTip": "E:\\0unik\\OOP\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\kurs\\bagh\\bagh\\Game_InitLoad.cpp",
+              "RelativeToolTip": "bagh\\Game_InitLoad.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB8AAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-15T18:08:33.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Game_logic.cpp",
+              "DocumentMoniker": "E:\\0unik\\OOP\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\kurs\\bagh\\bagh\\Game_logic.cpp",
+              "RelativeDocumentMoniker": "bagh\\Game_logic.cpp",
+              "ToolTip": "E:\\0unik\\OOP\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\kurs\\bagh\\bagh\\Game_logic.cpp",
+              "RelativeToolTip": "bagh\\Game_logic.cpp",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAAAEYBAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-15T18:09:19.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Piece.hpp",
+              "DocumentMoniker": "E:\\0unik\\OOP\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\kurs\\bagh\\bagh\\Piece.hpp",
+              "RelativeDocumentMoniker": "bagh\\Piece.hpp",
+              "ToolTip": "E:\\0unik\\OOP\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\kurs\\bagh\\bagh\\Piece.hpp",
+              "RelativeToolTip": "bagh\\Piece.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-15T15:25:05.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Piece.cpp",
+              "DocumentMoniker": "E:\\0unik\\OOP\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\kurs\\bagh\\bagh\\Piece.cpp",
+              "RelativeDocumentMoniker": "bagh\\Piece.cpp",
+              "ToolTip": "E:\\0unik\\OOP\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\kurs\\bagh\\bagh\\Piece.cpp",
+              "RelativeToolTip": "bagh\\Piece.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-15T15:25:21.521Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

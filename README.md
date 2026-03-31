@@ -1,10 +1,21 @@
 # OOP-Bagh-Chal
-A simple board game based on the Nepalese board game Bagh Chhal. One player controls four tigers, whilst the other controls twenty goats. The tigers ‘hunt’ the goats, whilst the goats try to block the tigers’ movements. This project was created as part of a course assignment on Object-Oriented Programming
 
+A C++ implementation of the traditional Nepalese board game **Bagh Chal** (Tiger and Goats). This project was developed as a practical assignment to demonstrate **Object-Oriented Programming (OOP)** principles using the **SFML** library.
 
-**LOGIC**
-The game was developed in C++ using SFML. Following object-oriented programming principles, the code is organized into 7 files. All in-game actions and logic are displayed in a debug console.
-The game is turn based.
+## Game Overview
+Bagh-Chal is an asymmetric strategic board game:
+* **The Tigers (4):** Their objective is to "hunt" the goats by jumping over them.
+* **The Goats (20):** Their objective is to surround and "trap" the tigers so they have no legal moves left.
 
-**WARNING**
-There is still cyrillic in comments to the code, might fix later.
+The game is strictly turn-based and follows the authentic rules of the traditional board game.
+
+## 🛠 Technical Stack
+* **Language:** C++17
+* **Library:** SFML (Simple and Fast Multimedia Library) for graphics and input handling.
+* **Paradigm:** Object-Oriented Programming (Encapsulation, Inheritance, Abstraction).
+
+## 🚀Key Features
+* **Modular Architecture:** The project is organized into 7 core files.
+* **Asymmetric Logic:** Unique movement and win-condition algorithms for both tigers and goats.
+* **Debug Console:** Real-time logging of in-game actions and logic validation for easy debugging.
+* **Interactive UI:** Graphical interface built with SFML for piece placement
